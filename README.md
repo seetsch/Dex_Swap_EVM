@@ -33,8 +33,5 @@ npm install
 Frontend is opensource.
 To get more functions for frontend, swap & liquidity & staking smart contracts and liquidity-admin-managemant site, Feel free to contact Me!
 
-# 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
-https://t.me/its0xopsdev
 
 
